@@ -52,7 +52,7 @@ clear
 figlet Installing ...
 figlet instagram bf 2
 # instagram 2
-git clone https://github.com/samsesh/insta-bf.git
+git clone https://github.com/Randygans11/insta-bf.git
 cd insta-bf 
 bash ./andriod_setup.sh	>> /dev/null
 clear
@@ -60,6 +60,6 @@ figlet done
 cd ..
 
 # facebook2
-git clone https://github.com/fikrado/fikrado.py
+git clone https://github.com/randykyle76/randy.py
 cd fikrado.py
 bash termux.sh >> /dev/null
